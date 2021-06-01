@@ -1,0 +1,20 @@
+div {
+    text-align: center;
+}
+
+table,
+th,
+td {
+    border: 1px solid black;
+}
+
+td {
+    padding: 0.25em;
+}
+
+table {
+    width: 12em;
+    border-collapse: collapse;
+    margin-bottom: 1em;
+    display: inline-table;
+}
